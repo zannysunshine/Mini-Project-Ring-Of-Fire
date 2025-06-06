@@ -4,5 +4,5 @@
 วิธีการรันโค้ดนี้ <br>
 1.ดาวน์โหลดไฟล์ ring_of_fire.py หรือ โหลดไฟล์ zip <br>
 2.ดาวน์โหลด Ananconda ที่ (https://www.anaconda.com/download) <br>
-![เมื่ออยู่หน้าดาวน์โหลดให้ใส่ Email และกด Submit](images/Screen_1.png)
+![เมื่ออยู่หน้าดาวน์โหลดให้ใส่ Email และกด Submit](images/screen1.png)
 
